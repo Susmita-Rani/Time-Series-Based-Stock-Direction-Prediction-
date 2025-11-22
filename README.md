@@ -4,7 +4,7 @@
 
 
 
-📈 Stock Price Movement Prediction (HDFC) – ML Project
+###📈 Stock Price Movement Prediction (HDFC) – ML Project
 
 DS & ML Intern Assignment – GoalFi, IIT Kanpur
 
