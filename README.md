@@ -6,8 +6,6 @@
 
 ## 📈 Stock Price Movement Prediction (HDFC) – ML Project
 
-DS & ML Intern Assignment – GoalFi, IIT Kanpur
-
 ### 🚀 Overview
 
 Built an end-to-end pipeline to predict next-day stock direction (Up/Down) using 2 years of HDFC OHLCV data from Yahoo Finance.
